@@ -1,5 +1,5 @@
 {
-  "name": "@sg/react-native-system-navigation",
+  "name": "react-native-system-navigation",
   "version": "0.1.0",
   "description": "System Navigation Bar package for android",
   "source": "./src/index.tsx",
